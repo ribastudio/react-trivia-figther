@@ -5,9 +5,10 @@ import FillerProgressBar from './FillerProgressBar';
 class ProgressBar extends React.Component {
   render() {
     const { percentage } = this.props;
+    const ONE_SECOND_IN_PERCENTAGE = 3.33;
     return (
       <div className="progress-bar">
-        <FillerProgressBar percentage={ percentage } />
+        <FillerProgressBar percentage={ percentage * ONE_SECOND_IN_PERCENTAGE } />
       </div>
     );
   }

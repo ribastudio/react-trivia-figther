@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/trivia-react-redux/static/css/main.2a62a701.css",
+    "main.js": "/trivia-react-redux/static/js/main.2c6e1cba.js",
+    "static/media/sound_background-music.mp3": "/trivia-react-redux/static/media/sound_background-music.56002194c6348b40a630.mp3",
+    "static/media/trivia-logo.png": "/trivia-react-redux/static/media/trivia-logo.c7743bc9950d94ee298c.png",
+    "static/media/sound_selected_sf2.mp3": "/trivia-react-redux/static/media/sound_selected_sf2.e359712a7a5f9539e792.mp3",
+    "static/media/sound_move-grid.mp3": "/trivia-react-redux/static/media/sound_move-grid.e08db6fe17b373b0d3ca.mp3",
+    "index.html": "/trivia-react-redux/index.html",
+    "main.2a62a701.css.map": "/trivia-react-redux/static/css/main.2a62a701.css.map",
+    "main.2c6e1cba.js.map": "/trivia-react-redux/static/js/main.2c6e1cba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a62a701.css",
+    "static/js/main.2c6e1cba.js"
+  ]
+}

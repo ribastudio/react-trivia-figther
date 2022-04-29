@@ -48,10 +48,10 @@ class Timer extends Component {
 
   render() {
     const { timer } = this.state;
-    const ONE_SECOND_IN_PERCENTAGE = 3.33;
+
     return (
       <div>
-        <ProgressBar percentage={ timer * ONE_SECOND_IN_PERCENTAGE } />
+        <ProgressBar percentage={ timer } />
       </div>
     );
   }
