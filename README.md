@@ -1,8 +1,10 @@
-# Projeto Trívia React Redux
+# Projeto Trívia React Redux :joystick:
 
 ## Contexto
 
 Neste projeto, desenvolvemos um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano)_ utilizando _React e Redux_.
+
+Como tema para nosso projeto, utilizamos o jogo Street Fighter.
 
 Nessa aplicação a pessoa usuária poderá:
   - Logar no jogo e, se o email tiver cadastro no site [Gravatar](https://pt.gravatar.com/), ter sua foto associada ao perfil de usuária.
@@ -11,9 +13,13 @@ Nessa aplicação a pessoa usuária poderá:
   - Visualizar a página de ranking, se quiser, ao final de cada jogo.
   - Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
 
+## Deploy da aplicação no Heroku :rocket:
+  * https://trivia-react-redux.herokuapp.com/
+
+## Gif da aplicação :movie_camera:
 ![Projeto](/src/assets/img/ProjetoTrivia.gif)
 
-## Técnologias usadas
+## Técnologias usadas :technologist:
 
 Projeto desenvolvido em React, utilizando redux para gerenciamento de estados da aplicação.
 
@@ -30,7 +36,7 @@ Projeto desenvolvido em React, utilizando redux para gerenciamento de estados da
 * Paulo Veiga
   - [LinkedIn](https://www.linkedin.com/in/pauloviniciusfrancaveiga/)
   - [GitHub](https://github.com/PauloVeiga14)
-* Eick Yumoto
+* Eicke Yumoto
   - [LinkedIn](https://www.linkedin.com/in/eicke-yumoto-941848209/)
   - [GitHub](https://github.com/Eicke-Yumoto)
 
